@@ -1,0 +1,28 @@
+{
+  "name": "static-website-development",
+  "version": "1.0.0",
+  "description": "run compaile minimise the static website",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish19/static.git"
+  },
+  "keywords": [
+    "create",
+    "static",
+    "pages"
+  ],
+  "author": "Harish K J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish19/static/issues"
+  },
+  "homepage": "https://github.com/harish19/static#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0"
+  }
+}
